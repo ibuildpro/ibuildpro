@@ -1,16 +1,28 @@
-## Hi there 👋
+# Jerry Jackson
 
-<!--
-**ibuildpro/ibuildpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I build clarity out of messy business data.
 
-Here are some ideas to get you started:
+Finance numbers that need to tie out.  
+GIS data that needs business meaning.  
+BI reports that need trust.  
+Pipelines that need clean logic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I turn scattered data into reliable systems for real decisions.
+
+## Focus
+
+Finance Data Engineering  
+GIS Data Workflows  
+Business Intelligence  
+Azure Data Pipelines  
+SQL Data Modeling  
+Power BI Reporting  
+ETL and Data Integration
+
+## Stack
+
+Azure Data Factory · Azure Synapse · SQL · PostgreSQL · Power BI · Databricks · Excel · GIS
+
+---
+
+### Trusted data for serious decisions.
