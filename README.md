@@ -16,11 +16,11 @@ That means working across architecture and implementation. I design the system, 
 
 <p>
   <img src="https://img.shields.io/badge/Enterprise%20AI%20SaaS-1E3A8A?style=flat-square" alt="Enterprise AI SaaS" height="20">
-  &nbsp;&nbsp;
+  &nbsp;-&nbsp;
   <img src="https://img.shields.io/badge/Custom%20ERP-5B21B6?style=flat-square" alt="Custom ERP" height="20">
-  &nbsp;&nbsp;
+  &nbsp;-&nbsp;
   <img src="https://img.shields.io/badge/Multi--Tenant%20Systems-0F766E?style=flat-square" alt="Multi-Tenant Systems" height="20">
-  &nbsp;&nbsp;
+  &nbsp;-&nbsp;
   <img src="https://img.shields.io/badge/Secure%20Identity%20%26%20RBAC-374151?style=flat-square" alt="Secure Identity & RBAC" height="20">
 </p>
 
