@@ -16,33 +16,28 @@ That means working across architecture and implementation. I design the system, 
 
 ## Stack
 
-**Product & Systems**
 ![Full Stack Development](https://img.shields.io/badge/Full%20Stack%20Development-111827?style=flat-square)
 ![Software Architecture](https://img.shields.io/badge/Software%20Architecture-111827?style=flat-square)
 ![SaaS Development](https://img.shields.io/badge/SaaS%20Development-111827?style=flat-square)
 ![Enterprise Software](https://img.shields.io/badge/Enterprise%20Software-111827?style=flat-square)
 ![ERP Software](https://img.shields.io/badge/Custom%20ERP-111827?style=flat-square)
 
-**Core Engineering**
 [![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)](#)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)](#)
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)](#)
 [![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)](#)
 
-**Cloud, Data & Identity**
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white)](#)
 [![Azure SQL Database](https://img.shields.io/badge/Azure%20SQL%20Database-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white)](#)
 [![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)](#)
 [![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white)](#)
 
-**Application & Integration**
 ![SQL](https://img.shields.io/badge/SQL-0F172A?style=flat-square)
 ![Database Design](https://img.shields.io/badge/Database%20Design-0F172A?style=flat-square)
 ![REST API](https://img.shields.io/badge/REST%20API-0F172A?style=flat-square)
 ![API Integration](https://img.shields.io/badge/API%20Integration-0F172A?style=flat-square)
 ![Role-Based Access Control](https://img.shields.io/badge/Role--Based%20Access%20Control-0F172A?style=flat-square)
 
-**AI & Product Operations**
 [![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square\&logo=openai\&logoColor=white)](#)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat-square)
 [![Customer.io](https://img.shields.io/badge/Customer.io-F26D4C?style=flat-square\&logo=customerio\&logoColor=white)](#)
