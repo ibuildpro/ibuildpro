@@ -14,7 +14,7 @@ That means working across architecture and implementation. I design the system, 
 
 ### Systems I Build
 
-![Enterprise AI SaaS](https://img.shields.io/badge/Enterprise%20AI%20SaaS-1E3A8A?style=flat-square)  · ![Custom ERP](https://img.shields.io/badge/Custom%20ERP-5B21B6?style=flat-square) · ![Multi-Tenant Systems](https://img.shields.io/badge/Multi--Tenant%20Systems-0F766E?style=flat-square) · ![Secure Identity & RBAC](https://img.shields.io/badge/Secure%20Identity%20%26%20RBAC-374151?style=flat-square)
+![Enterprise AI SaaS](https://img.shields.io/badge/Enterprise%20AI%20SaaS-1E3A8A?style=flat-square)  ▪ ![Custom ERP](https://img.shields.io/badge/Custom%20ERP-5B21B6?style=flat-square) ▪ ![Multi-Tenant Systems](https://img.shields.io/badge/Multi--Tenant%20Systems-0F766E?style=flat-square) ▪ ![Secure Identity & RBAC](https://img.shields.io/badge/Secure%20Identity%20%26%20RBAC-374151?style=flat-square)
 
 The best systems feel simple to the people using them. They know where work belongs, what they can access, and which numbers they can trust. They should not have to think about the structure holding everything together.
 
