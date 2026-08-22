@@ -4,38 +4,45 @@
 
 <h3>Senior AI/ML Software Engineer</h3>
 
-<p>End-to-end development across frontend, backend, data, machine learning, AI agents, cloud infrastructure, and deployment.</p>
+<p><strong>Frontend · Backend · Data Modeling · ML · AI Agents · DevOps · CI/CD</strong></p>
 
-<p><code>Full-Stack</code> <code>Frontend</code> <code>Backend</code> <code>Data Modeling</code> <code>ML</code> <code>LLM</code> <code>RAG</code> <code>AI Agents</code> <code>LangChain</code> <code>DevOps</code> <code>CI/CD</code></p>
+<p>
+  <img src="https://img.shields.io/badge/AI_Agents-111827?style=flat-square" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/LLM-111827?style=flat-square&amp;logo=anthropic&amp;logoColor=white" alt="LLM" />
+  <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/LangChain-111827?style=flat-square&amp;logo=langchain&amp;logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square&amp;logo=langgraph&amp;logoColor=white" alt="LangGraph" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,py,fastapi,dotnet,postgres,supabase,pytorch,docker,terraform,azure&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,py,fastapi,dotnet,postgres,supabase,pytorch,docker,terraform,azure&amp;theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,py,fastapi,dotnet,postgres,supabase,pytorch,docker,terraform,azure&amp;theme=dark" alt="Paul's core technology stack" />
+</picture>
 
 </div>
 
-Core Stack
-
-Layer
-
-Technologies
-
-Frontend
-
-React, Next.js, TypeScript, React Native
-
-Backend
-
-Python, FastAPI, Node.js, Ruby on Rails, C#, .NET, REST APIs
-
-Data
-
-PostgreSQL, SQL Server, Supabase, data modeling, ETL
-
-AI & ML
-
-OpenAI, Claude, machine learning, LLMs, RAG, AI agents, LangChain, LangGraph
-
-DevOps
-
-Azure, AWS, Docker, Terraform, CI/CD
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Full-Stack</h3>
+      <p><strong>Frontend</strong> · React · Next.js · TypeScript · React Native<br /><strong>Backend</strong> · Python · FastAPI · Node.js · Rails · C# · .NET</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>◆ Data</h3>
+      <p>PostgreSQL · SQL Server · Supabase<br /><strong>Data Modeling</strong> · ETL · Analytics</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✦ AI &amp; ML</h3>
+      <p>Machine Learning · LLM · RAG · AI Agents<br />OpenAI · Claude · LangChain · LangGraph</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙ DevOps</h3>
+      <p>Azure · AWS · Docker · Terraform<br />CI/CD · GitHub Actions</p>
+    </td>
+  </tr>
+</table>
 
 <!-- Replace the placeholder URLs before publishing. -->
-
-<p align="center"><a href="YOUR_UPWORK_URL">Upwork</a> · <a href="YOUR_LINKEDIN_URL">LinkedIn</a> · <a href="mailto:YOUR_EMAIL">Email</a></p>
